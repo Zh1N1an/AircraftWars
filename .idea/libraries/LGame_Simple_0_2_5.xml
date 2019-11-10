@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LGame-Simple-0.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/额外jar包/LGame-Simple-0.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
